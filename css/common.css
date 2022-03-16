@@ -34,5 +34,6 @@ button {
 
 .gallery-image {
   margin: 20px;
-  list-style: none;
+  width: 700px;
+  height: 400px;
 }
